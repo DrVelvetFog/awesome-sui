@@ -246,7 +246,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
   - [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 - [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
 - [Eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone.
-- [Sui x402 Facilitator](https://sui-facilitator.onrender.com) - The first live, non-custodial x402 facilitator on Sui — agents pay for HTTP resources with on-chain settlement and zero protocol fees.
+- [Sui x402 Facilitator](https://sui-facilitator.onrender.com) - An independent, non-custodial x402 facilitator on Sui — agents pay for HTTP resources with on-chain settlement and zero protocol fees.
   - [GitHub](https://github.com/DrVelvetFog/sui-x402-facilitator)
 
 ## Infrastructure as Code
